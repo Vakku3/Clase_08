@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root{
-    --fondo: #4f4cab;
+    --fondo: rgb(6, 26, 32);
     --figura: #d0d6ea;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 body.portada{
-    background:var(--fondo) url('images/wp4716666.png') right bottom no-repeat;
+    background:var(--fondo) url('images/332.png') right bottom no-repeat;
     background-size:auto 100%;
 }
 
