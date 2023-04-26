@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Pokemon Rojo/ azul/ amarillo",
+        "year": 1999,
+        "director": "Satoshi Tajiri",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=WP4R-wVeT9s&ab_channel=pokemonfreak907",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Oro/ Plata/ Cristsal ",
+        "year": 2001,
+        "director": "Satoshi Tajiri",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=upDjb-WsBvo&ab_channel=PokemonOfficial100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon rubi/ zafiro/ Esmeralda",
+        "year": 2004,
+        "director": "Junishi Masuda",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1cvT_jF5NTU&ab_channel=carmen1994able",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Diamante/ Perla/ PLatino",
+        "year": 2007,
+        "director": "Junishi Masuda",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=CryM43M1lpg&ab_channel=PokemonOfficial100",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Blanco/ Negro",
+        "year": 2011,
+        "director": "Junishi Masuda",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=PrYtQMfcyKA&ab_channel=GiancarloParimango",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Blanco 2/ Negro 2",
+        "year": 2012,
+        "director": "Junishi Masuda",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=BAInQ2nBZKg&ab_channel=Gigatitan",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon X/ Y",
+        "year": 2013,
+        "director": "Junishi Masuda",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=icjkBxxOmkw&ab_channel=NintendoEspa%C3%B1a",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Sol/ Luna/ Ultra Sol/ Ultra Luna",
+        "year": 2016,
+        "director": "Shigeru Ohmori",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8CF_m4cPs2g&ab_channel=GameSpot",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Espada/ Escudo",
+        "year": 2019,
+        "director": "Shigeru Ohmori",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wLbyvPODSc4&ab_channel=NintendoEspa%C3%B1a",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Pokemon Escarlata/ Violeta",
+        "year": 2022,
+        "director": "Shigeru Ohmori",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=SxwOJi2dd4c&ab_channel=GameSpot",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    }
+]
